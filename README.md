@@ -1,5 +1,7 @@
 ﻿
 
+#### ConselUI SET AS STARTUP PROJECT RUN
+***
 ### Nexum.MarsRover.Core
 
 **Amaç:** Uygulamanın çekirdeğini oluşturur. Domain nesneleri, kurallar, arayüzler ve sabit tanımlar burada bulunur.
@@ -34,3 +36,6 @@
 
 --- Web veya mobil UI katmanları eklenebilir.
 --- Loglama mail notif alış-veriş(rest) vs third party özellikler Infrascture katmanına eklenebilir.
+
+
+#### ConselUI Set as startup project run
